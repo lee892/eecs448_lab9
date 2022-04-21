@@ -1,0 +1,20 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+}
+
+th, td {
+    padding: 20px;
+}
+
+form {
+    text-align: center;
+    
+}
+
+p {
+    font-weight: bold;
+    font-size: 16px;
+}
